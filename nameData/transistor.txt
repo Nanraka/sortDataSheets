@@ -1,0 +1,7 @@
+npn
+pnp
+transistor
+NPN
+PNP
+TRANSISTOR
+トランジスタ

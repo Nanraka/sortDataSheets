@@ -1,0 +1,6 @@
+MOS
+NMOS
+PMOS
+MOSFET
+FET
+MOS形
